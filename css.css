@@ -139,13 +139,13 @@ footer{
     #newsletter .head h1{
         margin: 4% 0;
     }
-  #newsletter input[type='email']{
+   #newsletter input[type='email']{
         display: block;
-        margin-left: 15.5%;
+        margin-left: 13.5%;
         margin-bottom: 2%;
         padding: 8px;
         height: 26px;
-        width: 77.5%;
+        width: 79.5%;
     }
     .button-1{
         margin-left: 12%;
