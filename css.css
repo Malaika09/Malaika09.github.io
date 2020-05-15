@@ -141,10 +141,10 @@ footer{
     }
     #newsletter input[type='email']{
         display: block;
-        margin-left: 15%;
+        margin-left: 13.5%;
         margin-bottom: 2%;
-        padding: 8px;
         height: 26px;
+        width: 82%;
     }
     .button-1{
         margin-left: 12%;
